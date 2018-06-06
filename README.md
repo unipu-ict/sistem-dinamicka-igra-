@@ -1,7 +1,7 @@
 # sistem-dinamicka-igra-2
 Mobilna igra zasnovana na sistem dinamičkom modelu i LibGDX programskom okviru.
 
-![alt text](https://monosnap.com/file/BPyWgh9Vd4AAXVGz43clOc6h1GcLG9)
+![alt text](https://monosnap.com/file/BPyWgh9Vd4AAXVGz43clOc6h1GcLG9.png)
 
 
 ### Autori (2017./2018.)
