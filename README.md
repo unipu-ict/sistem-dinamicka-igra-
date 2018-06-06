@@ -2,6 +2,8 @@
 Mobilna igra zasnovana na sistem dinamičkom modelu i LibGDX programskom okviru.
 
 
+![stack Overflow](https://github.com/unipu-ict/sistem-dinamicka-igra-2/blob/master/preview/mainMenu.png?raw=true)
+
 ### Autori (2017./2018.)
 - **Skok Karlo** (kskok@unipu.hr)
 
