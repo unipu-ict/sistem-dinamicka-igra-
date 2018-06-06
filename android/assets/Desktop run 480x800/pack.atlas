@@ -1,0 +1,55 @@
+
+pack.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arrow-Transparent
+  rotate: false
+  xy: 2, 2
+  size: 396, 171
+  orig: 396, 171
+  offset: 0, 0
+  index: -1
+Deposit
+  rotate: false
+  xy: 644, 556
+  size: 341, 341
+  orig: 341, 341
+  offset: 0, 0
+  index: -1
+MoneyBag
+  rotate: false
+  xy: 2, 175
+  size: 384, 400
+  orig: 384, 400
+  offset: 0, 0
+  index: -1
+end
+  rotate: false
+  xy: 388, 223
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+percent
+  rotate: false
+  xy: 590, 404
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+right-arrow
+  rotate: false
+  xy: 2, 577
+  size: 640, 320
+  orig: 640, 320
+  offset: 0, 0
+  index: -1
+start
+  rotate: false
+  xy: 388, 375
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

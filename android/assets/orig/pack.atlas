@@ -1,0 +1,138 @@
+
+pack.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GAMEBACKGROUND
+  rotate: false
+  xy: 2, 108
+  size: 500, 888
+  orig: 500, 888
+  offset: 0, 0
+  index: -1
+GAMEBACKGROUND2
+  rotate: false
+  xy: 504, 108
+  size: 500, 888
+  orig: 500, 888
+  offset: 0, 0
+  index: -1
+GO
+  rotate: false
+  xy: 229, 47
+  size: 198, 59
+  orig: 198, 59
+  offset: 0, 0
+  index: -1
+STARTBUTTON
+  rotate: false
+  xy: 629, 42
+  size: 174, 64
+  orig: 174, 64
+  offset: 0, 0
+  index: -1
+TITLE
+  rotate: false
+  xy: 2, 2
+  size: 225, 104
+  orig: 225, 104
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 229, 7
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+playbutton
+  rotate: false
+  xy: 429, 50
+  size: 198, 56
+  orig: 198, 56
+  offset: 0, 0
+  index: -1
+question
+  rotate: false
+  xy: 876, 51
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+settingsicon
+  rotate: false
+  xy: 805, 45
+  size: 69, 61
+  orig: 69, 61
+  offset: 0, 0
+  index: -1
+window
+  rotate: false
+  xy: 922, 31
+  size: 31, 75
+  split: 6, 6, 32, 7
+  orig: 31, 75
+  offset: 0, 0
+  index: -1
+
+pack2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: false
+  xy: 782, 255
+  size: 83, 232
+  orig: 83, 232
+  offset: 0, 0
+  index: -1
+menuBackground
+  rotate: false
+  xy: 2, 180
+  size: 388, 689
+  orig: 388, 689
+  offset: 0, 0
+  index: -1
+menuBackground2
+  rotate: false
+  xy: 392, 180
+  size: 388, 689
+  orig: 388, 689
+  offset: 0, 0
+  index: -1
+result2
+  rotate: false
+  xy: 2, 2
+  size: 184, 176
+  orig: 184, 176
+  offset: 0, 0
+  index: -1
+valuestext
+  rotate: false
+  xy: 782, 489
+  size: 206, 380
+  orig: 206, 380
+  offset: 0, 0
+  index: -1
+
+pack3.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SAVE MONEY
+  rotate: false
+  xy: 2, 2
+  size: 281, 381
+  orig: 281, 381
+  offset: 0, 0
+  index: -1
+questiontext
+  rotate: false
+  xy: 2, 385
+  size: 356, 622
+  orig: 356, 622
+  offset: 0, 0
+  index: -1
