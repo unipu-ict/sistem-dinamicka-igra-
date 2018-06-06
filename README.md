@@ -1,6 +1,7 @@
 # sistem-dinamicka-igra-2
 Mobilna igra zasnovana na sistem dinamičkom modelu i LibGDX programskom okviru.
 
+
 ### Autori (2017./2018.)
 - **Skok Karlo** (kskok@unipu.hr)
 
